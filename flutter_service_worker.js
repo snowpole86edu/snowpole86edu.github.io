@@ -6,8 +6,8 @@ const RESOURCES = {
   "assets/AssetManifest.json": "1a1b70ac4d24f9f64c1acaa000556341",
 "assets/assets/images/ai_study_loading.gif": "c094f44d03d69511c2322da141996755",
 "assets/assets/images/kids.png": "fe932f70802554d89d72082f5d09c8a1",
-"assets/assets/images/robot1.png": "20d4dbe8f6cbcde93b9e5557e4054b61",
-"assets/assets/images/robot2.png": "7dda7508598ae5dd6eadbaa8b587a566",
+"assets/assets/images/robot1.png": "7dda7508598ae5dd6eadbaa8b587a566",
+"assets/assets/images/robot2.png": "20d4dbe8f6cbcde93b9e5557e4054b61",
 "assets/assets/images/title.png": "d9786fa5780687c7ef439a474c15599c",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
@@ -22,10 +22,10 @@ const RESOURCES = {
 "icons/Icon-512.png": "8682f962c5efe2470eb2cee2a3198754",
 "icons/Icon-maskable-192.png": "abd4b031df01fe530d2b77f0c82428a5",
 "icons/Icon-maskable-512.png": "8682f962c5efe2470eb2cee2a3198754",
-"index.html": "ce5778f01aa477b44c86aa87849214ff",
-"/": "ce5778f01aa477b44c86aa87849214ff",
+"index.html": "a1fdbd1524361926e3ec7af067f73d62",
+"/": "a1fdbd1524361926e3ec7af067f73d62",
 "main.dart.js": "97c9693bc72df694e3c7a1f8c37461cb",
-"manifest.json": "0eb91e21a3a44c07170df13afd223edb",
+"manifest.json": "079dca3646640905ea45340d3cf78b64",
 "version.json": "725aaae93aaf52bcd8e2d973daa91140"
 };
 
