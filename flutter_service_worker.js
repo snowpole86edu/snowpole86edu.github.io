@@ -3,15 +3,15 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "44bb45a0ce26d8f2a3484272bb6974e0",
+  "assets/AssetManifest.json": "b609c50d97e5f76b68ee83d953fe270e",
 "assets/assets/fonts/jalnan.ttf": "6be3d80cc02d977f57c6dacced006461",
 "assets/assets/fonts/lottemart-dream-bold.ttf": "9ea8cafad934a51f4d88c40132e958f5",
 "assets/assets/images/ai_study_loading.gif": "c094f44d03d69511c2322da141996755",
-"assets/assets/images/a_student_finish.jpg": "34a7be4b697cdf4f023353029eaaab40",
+"assets/assets/images/a_student_finish.jpg": "81994b3aabf29b54854986340ee919b7",
 "assets/assets/images/a_student_notice.jpg": "c703702a514734a709c98f3e6c8e1b51",
 "assets/assets/images/a_student_q.jpg": "db678fe069940b19b056c49f8b30713b",
 "assets/assets/images/back.png": "ce5ebb716d7719436501142a9e182ee5",
-"assets/assets/images/b_student_finish.jpg": "0d2404b2d8cde107fe8ce12b03ddeb8a",
+"assets/assets/images/b_student_finish.jpg": "94a94c63bb05999a9e59e673eb0be9d0",
 "assets/assets/images/b_student_notice.jpg": "25a0ee97ff69eca06813735ab1acf20a",
 "assets/assets/images/b_student_q.jpg": "626744bb377abb8185e16a313c26a31d",
 "assets/assets/images/done.png": "abe67e398fb4a16914e93609cef96bed",
@@ -21,10 +21,6 @@ const RESOURCES = {
 "assets/assets/images/robot1.png": "7dda7508598ae5dd6eadbaa8b587a566",
 "assets/assets/images/robot2.png": "20d4dbe8f6cbcde93b9e5557e4054b61",
 "assets/assets/images/start.png": "5440c053a2a6f6624e8895320022338e",
-"assets/assets/images/teacher_finish.jpg": "f500f8ae87bff20d8741bbb41890da64",
-"assets/assets/images/teacher_notice.jpg": "29155c31a75666389e2d8efca94558d3",
-"assets/assets/images/teacher_q.jpg": "dacb51918f6b138a5591e983e671b9ff",
-"assets/assets/images/teacher_q_analysis.jpg": "2073b3f0e0eec89392f0e10b2b60b17b",
 "assets/assets/images/x_mark.png": "d0e814432937c3e34e36ff668c2b4998",
 "assets/assets/images/x_mark_checked.png": "7874df7b5baac671027838ff5e38df63",
 "assets/FontManifest.json": "954c623903474e0f34d1042aa5504268",
@@ -40,9 +36,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "8682f962c5efe2470eb2cee2a3198754",
 "icons/Icon-maskable-192.png": "abd4b031df01fe530d2b77f0c82428a5",
 "icons/Icon-maskable-512.png": "8682f962c5efe2470eb2cee2a3198754",
-"index.html": "882c73ae00188384c5557e77289d11bc",
-"/": "882c73ae00188384c5557e77289d11bc",
-"main.dart.js": "110b3dc5e5733dd5164b8270e5b74d37",
+"index.html": "d01635767a84fb41c1fcac9ce4cf33f5",
+"/": "d01635767a84fb41c1fcac9ce4cf33f5",
+"main.dart.js": "ca46d6ecf66b2d4e16c1f9432a61af3e",
 "manifest.json": "079dca3646640905ea45340d3cf78b64",
 "version.json": "725aaae93aaf52bcd8e2d973daa91140"
 };
