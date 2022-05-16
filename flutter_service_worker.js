@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "b609c50d97e5f76b68ee83d953fe270e",
+  "assets/AssetManifest.json": "75b4db13c504105bc3fc50e48cfeebd2",
 "assets/assets/fonts/jalnan.ttf": "6be3d80cc02d977f57c6dacced006461",
 "assets/assets/fonts/lottemart-dream-bold.ttf": "9ea8cafad934a51f4d88c40132e958f5",
 "assets/assets/images/ai_study_loading.gif": "c094f44d03d69511c2322da141996755",
@@ -11,6 +11,8 @@ const RESOURCES = {
 "assets/assets/images/a_student_notice.jpg": "c703702a514734a709c98f3e6c8e1b51",
 "assets/assets/images/a_student_q.jpg": "db678fe069940b19b056c49f8b30713b",
 "assets/assets/images/back.png": "ce5ebb716d7719436501142a9e182ee5",
+"assets/assets/images/background_A.jpg": "1f459844d837e5541816bdacb88f6350",
+"assets/assets/images/background_B.jpg": "038fb44a861f992450b0fc770e188b70",
 "assets/assets/images/b_student_finish.jpg": "94a94c63bb05999a9e59e673eb0be9d0",
 "assets/assets/images/b_student_notice.jpg": "25a0ee97ff69eca06813735ab1acf20a",
 "assets/assets/images/b_student_q.jpg": "626744bb377abb8185e16a313c26a31d",
@@ -36,9 +38,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "7bacb23ab0ce7bbc96bf7fc1ccd961c6",
-"/": "7bacb23ab0ce7bbc96bf7fc1ccd961c6",
-"main.dart.js": "bc63fa98a028791cf120fec798f20eb1",
+"index.html": "59701221333513dcdb290ccf438a312c",
+"/": "59701221333513dcdb290ccf438a312c",
+"main.dart.js": "993d7d121f974c460bbe449cc95739de",
 "manifest.json": "079dca3646640905ea45340d3cf78b64",
 "version.json": "725aaae93aaf52bcd8e2d973daa91140"
 };
