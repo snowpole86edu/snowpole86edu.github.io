@@ -64793,7 +64793,7 @@ al(){return new A.Kb(B.j)}}
 A.Kb.prototype={
 aC(){this.ba()},
 I(a,b){var s=null,r=t.p
-return A.dk(s,s,A.cx(s,A.f_(A.a([A.eL(A.a([A.bW("assets/images/robot1.png",B.C,s,230,s),B.eN,A.dN(A.f_(A.a([A.c3(new A.d4(B.ml,A.dN(A.a2c(s,s,B.ba,!0,s,B.v7,B.bp,s,s,1,B.ag),s,s),s),1),B.AA,B.uM],r),B.bv,B.aR,B.D),270,s)],r),B.Z,B.aR,B.D)],r),B.Z,B.aR,B.D),s,s,B.lH,s,s,s,1/0),!1)}}
+return A.dk(s,s,A.cx(s,A.f_(A.a([A.eL(A.a([A.bW("assets/images/robot1.png",B.C,s,300,s),B.eN,A.dN(A.f_(A.a([A.c3(new A.d4(B.ml,A.dN(A.a2c(s,s,B.ba,!0,s,B.v7,B.bp,s,s,1,B.ag),s,s),s),1),B.AA,B.uM],r),B.bv,B.aR,B.D),340,s)],r),B.Z,B.aR,B.D)],r),B.Z,B.aR,B.D),s,s,B.lH,s,s,s,1/0),!1)}}
 A.oy.prototype={
 I(a,b){var s,r,q=null,p=b.M(t.w).f.a,o="a"
 try{s=$.hD
@@ -65025,7 +65025,7 @@ al(){return new A.KE(B.j)}}
 A.KE.prototype={
 aC(){this.ba()},
 I(a,b){var s=null,r=t.p
-return A.dk(s,s,A.cx(s,A.f_(A.a([A.eL(A.a([A.bW("assets/images/robot2.png",B.C,s,230,s),B.eN,A.dN(A.f_(A.a([A.c3(new A.d4(B.ml,A.dN(A.a2c(s,s,B.ba,!0,s,B.v7,B.bp,s,s,1,B.ag),s,s),s),1),B.AB,B.uM],r),B.bv,B.aR,B.D),270,s)],r),B.Z,B.aR,B.D)],r),B.Z,B.aR,B.D),s,s,B.lH,s,s,s,1/0),!1)}}
+return A.dk(s,s,A.cx(s,A.f_(A.a([A.eL(A.a([A.bW("assets/images/robot2.png",B.C,s,300,s),B.eN,A.dN(A.f_(A.a([A.c3(new A.d4(B.ml,A.dN(A.a2c(s,s,B.ba,!0,s,B.v7,B.bp,s,s,1,B.ag),s,s),s),1),B.AB,B.uM],r),B.bv,B.aR,B.D),340,s)],r),B.Z,B.aR,B.D)],r),B.Z,B.aR,B.D),s,s,B.lH,s,s,s,1/0),!1)}}
 A.oJ.prototype={
 I(a,b){var s,r,q=null,p=b.M(t.w).f.a,o="b"
 try{s=$.hD
